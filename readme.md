@@ -154,7 +154,8 @@ Submission
 Your submission should be a zip file containing:
 
 - A C++ source file called `mem_sim.cpp` which
-  implements the simulator.
+  implements the simulator. The C++ compiler used to compile your code
+  will support C++11.
   
 - (Optional) Any ancilliary C++ sources called `mem_sim_*.cpp`
   which should be compiled into the program. These must
